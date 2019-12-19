@@ -51,7 +51,9 @@
         </div>
       </quill-editor>
     </el-card>
+    <div class="ql-container ql-snow">
      <div class="ql-editor" v-html="content"></div>
+    </div>
   </div>
 </template>
 
